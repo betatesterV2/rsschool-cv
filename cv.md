@@ -1,7 +1,7 @@
 # __Dmitry Prudnikov__ 
-## Phone: _+375(44)7769530_ 
-## Email: _amdeshnik@gmail.com_
-## Github: _betatesterV2_
+### Phone: _+375(44)7769530_ 
+### Email: _amdeshnik@gmail.com_
+### Github: _betatesterV2_
 
 ## __Skills__
 * HTML\CSS at a basic level, took a free course on Yandex practicum, learned how to make verka.
